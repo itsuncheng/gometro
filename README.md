@@ -14,4 +14,6 @@ and provide easy visualization of the real-time data on graphs.
 ![Screenshot](/gometro.png)
 
 
+The working demo is hosted on codesandbox: https://pbyte.codesandbox.io/
 
+Feel free to play around with it! :)
