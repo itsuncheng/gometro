@@ -11,5 +11,7 @@ and we firmly believe this issue can be avoided if the trains are synchronized c
 of passengers on each train platform. Thus, we propose a solution to live count the number of people using object detection
 and provide easy visualization of the real-time data on graphs.
 
+![Screenshot](/gometro.png)
+
 
 
