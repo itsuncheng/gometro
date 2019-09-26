@@ -1,0 +1,11 @@
+/* .size {
+  position: fixed;
+  top: "10px";
+  left: "10px";
+} */
+
+table,
+th,
+td {
+  border: 1px solid black;
+}

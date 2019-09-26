@@ -1,2 +1,0 @@
-# gometro
-Created with CodeSandbox
